@@ -1,8 +1,10 @@
 # EverforestRIceDots
 
-<h3 align="center" style="text-align:center;font-style:italic;">
+<h3 align="center">
+<i>
 Dot files for my first linux rice<br>
 w/<a href="https://github.com/sainnhe/everforest/tree/master/"> Everforest color-scheme</a>
+</i>
 </h3>
 
 ## Harware
