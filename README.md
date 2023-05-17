@@ -19,3 +19,4 @@ w/<a href="https://github.com/sainnhe/everforest/tree/master/"> Everforest color
 
 <h2 align="center"> Software </h2>
 
+https://github.com/catppuccin/hyper/blob/main/README.md
