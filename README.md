@@ -1,4 +1,4 @@
-# EverforestRIceDots
+<h1 align="center"><b>Everforest Rice Dots</b></h1>
 
 <h3 align="center">
 <i>
@@ -7,12 +7,15 @@ w/<a href="https://github.com/sainnhe/everforest/tree/master/"> Everforest color
 </i>
 </h3>
 
-## Harware
+<h2 align="center"> Harware </h2>
+
+
+
 | Type | Name|
 | - | - |
 | Laptop | ThinkBook 14s Yoga|
 |CPU | Intel i5-1135G7|
 | GPU| Intel Tigerlake-LP GT2|
 
-## Software
+<h2 align="center"> Software </h2>
 
