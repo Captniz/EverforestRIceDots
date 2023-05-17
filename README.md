@@ -1,7 +1,9 @@
 # EverforestRIceDots
 
-> Dot files for my first linux rice  
-> w/[Everforest color-scheme](https://github.com/sainnhe/everforest/tree/master/)
+<h2 style="text-align:center;font-style:italic;">
+Dot files for my first linux rice<br>
+w/<a href="https://github.com/sainnhe/everforest/tree/master/"> Everforest color-scheme</a>
+</h2>
 
 ## Harware
 | Type | Name|
